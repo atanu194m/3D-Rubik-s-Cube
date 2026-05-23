@@ -5,7 +5,7 @@ A fully interactive, high-performance, and responsive **3D Rubik's Cube game** b
 ---
 
 ## 🚀 Live Demo
-* Add your deployed link here (e.g., GitHub Pages, Vercel, Netlify) *
+
 
 ---
 
